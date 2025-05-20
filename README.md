@@ -49,5 +49,13 @@
 ⮚	Press enter to set the size.
 
 
+##OUTPUT
+
+![Purple and Green Wealth Milestones Infographic Poster](https://github.com/user-attachments/assets/2f1bb88c-dabc-4ac1-ba0d-99a9889b27e5)
+
+##RESULT
+
+Thus, the image was successfully edited using basic tools in an image editing software. The editing included cropping, resizing, background change, color adjustment, and object transformation.
+
 
 ## OUTPUT:
